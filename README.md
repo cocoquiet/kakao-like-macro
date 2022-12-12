@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-이딴걸 왜 만든지 궁금하실겁니다.
-하지만 지금은 무슨 기간이다? 바로 시험기간이죠!
+이딴걸 왜 만든지 궁금하실겁니다.  
+하지만 지금은 무슨 기간이다? 바로 시험기간이죠!  
 그렇기에 광기에 물든 전 이 프로그램을 만들기 시작했습니다.
 
 ## Installing
@@ -16,22 +16,22 @@
 
 #### 1. pyautogui
 
-command 창에 다음과 같이 입력합니다.
+command 창에 다음과 같이 입력합니다.  
 ```pip install pyautogui```
 
-설치가 되지 않는다면 setuptools를 업데이트 해주세요.
+설치가 되지 않는다면 setuptools를 업데이트 해주세요.  
 ```pip install --upgrade setuptools```
 
 #### 2. keyboard
     
-command 창에 다음과 같이 입력합니다.
+command 창에 다음과 같이 입력합니다.  
 ```pip install keyboard```
 
 ## How to use
 
 #### 1. 코드를 바로 실행하기
 1. 파이썬 파일이 있는 폴더로 이동합니다.
-2. command 창에 다음과 같이 입력합니다.
+2. command 창에 다음과 같이 입력합니다.  
 ```python kakao_like_macro.py```
 3. 프로그램이 실행되면 원하는 카카오톡 채팅방으로 이동합니다.
 4. 프로그램이 원하는 값을 입력한 후 마우스 커서를 좋아요 버튼에 올려놓습니다.
